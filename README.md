@@ -10,6 +10,7 @@ This repository contains a C program for compressing and decompressing text file
 - [Project Structure](#project-structure)
 - [TODO](#todo)
 - [Contributing](#contributing)
+- [License](#license)
 
 
 ## Features
@@ -89,7 +90,8 @@ If your file is located in a different folder, for example on drive D: (windows)
 
 ```plaintext
 compress-text-file/
-├──README.md
+├── LICENSE.txt
+├── README.md
 └── compress.c
 ```
 
@@ -122,6 +124,9 @@ Contributions are welcome! Please follow these steps to contribute:
     git push origin <feature-name>
     ```
 5. **Open a pull request.**
+
+## License
+This project is licensed under the [MIT](https://github.com/ZahraAziziGit/compress-text-file?tab=MIT-1-ov-file#) License.
 
 ---
 
