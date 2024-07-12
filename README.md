@@ -97,8 +97,11 @@ compress-text-file/
 
 ## TODO 
 ⬜  Implement decompression code.
+
 ⬜ Separate Huffman code from the main code.
+
 ⬜ Refactor compressing function.
+
 ⬜ Refactor decompressing function.
 
 ## Contributing
@@ -123,7 +126,7 @@ Contributions are welcome! Please follow these steps to contribute:
 ---
 
 Thank you for checking out the Compress Text File project! If you have any questions or feedback, feel free to reach out.
-##
+
 [Telegram](https://t.me/zahraAziziT)
 
  E-mail: [azizi.zahra.tehran@gmail.com](mailto:azizi.zahra.tehran@gmail.com)https://assets.grammarly.com/emoji/v1/1f91d.svg
