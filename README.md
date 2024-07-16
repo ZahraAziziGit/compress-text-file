@@ -134,4 +134,4 @@ Thank you for checking out the Compress Text File project! If you have any quest
 
 [Telegram](https://t.me/zahraAziziT)
 
- E-mail: [azizi.zahra.tehran@gmail.com](mailto:azizi.zahra.tehran@gmail.com)https://assets.grammarly.com/emoji/v1/1f91d.svg
+ E-mail: [azizi.zahra.tehran@gmail.com](mailto:azizi.zahra.tehran@gmail.com)
